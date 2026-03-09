@@ -85,7 +85,9 @@ Add your answer to the JavaScript code block below.
 
 ```javascript
 // Write your answer below this JavaScript comment
-// I Elliot am the lead of this project
+// Elliot Clarke
+// 3/9/2026
+// u14
 
 ```
 
