@@ -8,6 +8,7 @@ const birthState = "Michigan";
 
 const firstName = "Elliot";
 const lastName = "Clarke";
+const grade = 12;
 const homeSchool = "TC Central High School";
 const isLoggedIn = true;
 const isAdult = true;
