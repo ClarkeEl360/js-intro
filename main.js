@@ -11,4 +11,3 @@ let lastName = "Clarke";
 const homeSchool = "TC Central High School";
 const isLoggedIn = true;
 const isAdult = true;
-
